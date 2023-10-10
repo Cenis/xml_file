@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<database>
+ <VMD_03>
+  <VT_1>
+    <MEA type="MEA20"  name="MEA20_1">
+      <OUT name="DCT_1" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/> 
+      <OUT name="DCT_2" LC_TYPE="3" LC="2" LT_TYPE="0" LT="2"/>
+    </MEA>
+    <MEA type="MEA20s" name="MEA20_2">
+      <OUT name="DCT_3" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/> 
+      <OUT name="DCT_4" LC_TYPE="3" LC="2" LT_TYPE="0" LT="2"/>
+    </MEA>
+    <MEA type="MEA20at" name="MEA20_3">
+	  <OUT name="DCT_5" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/>	
+      <OUT name="DCT_6" LC_TYPE="3" LC="2" LT_TYPE="0" LT="2"/>	
+    </MEA>
+  </VT_1>
+  <VT_2>
+    <MEA type="MEA20a" name="MEA20_33">
+      <OUT name="DCT_80" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/>     
+    </MEA>
+    <MEA type="MEA20i" name="MEA20_34">
+	  <OUT name="DCT_801" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/>  
+    </MEA>
+    <MEA type="MEA20m" name="MEA20_35">
+      <OUT name="DCT_802" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/>  
+    </MEA>
+  </VT_2>
+ </VMD_03>
+ <VMD_04>
+  <VT_1>
+    <MEA type="MEA20"  name="MEA20_1">
+      <OUT name="DCT_1" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/> 
+      <OUT name="DCT_2" LC_TYPE="3" LC="2" LT_TYPE="0" LT="2"/>
+    </MEA>
+    <MEA type="MEA20s" name="MEA20_2">
+      <OUT name="DCT_3" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/> 
+      <OUT name="DCT_4" LC_TYPE="3" LC="2" LT_TYPE="0" LT="2"/>
+    </MEA>
+    <MEA type="MEA20at" name="MEA20_3">
+	  <OUT name="DCT_5" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/>	
+      <OUT name="DCT_6" LC_TYPE="3" LC="2" LT_TYPE="0" LT="2"/>	
+    </MEA>
+  </VT_1>
+  <VT_2>
+    <MEA type="MEA20a" name="MEA20_33">
+      <OUT name="DCT_80" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/>     
+    </MEA>
+    <MEA type="MEA20i" name="MEA20_34">
+	  <OUT name="DCT_801" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/>  
+    </MEA>
+    <MEA type="MEA20m" name="MEA20_35">
+      <OUT name="DCT_802" LC_TYPE="3" LC="1" LT_TYPE="0" LT="1"/>  
+    </MEA>
+  </VT_2>
+ </VMD_04>
+ 
+</database>
